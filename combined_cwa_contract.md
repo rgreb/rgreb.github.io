@@ -14,25 +14,25 @@ February 1, 2022 - January 31, 2025
 
 | Article | Section | Contract Provision                                 |
 |---------|---------|---------------------------------------------------|
-| I       | 1       | RECOGNITION                                       |
-| I       | 1       | Job Titles Covered By The Agreement               |
-| I       | 2       | Successorship Agreement                            |
-| II      |         | UNION SECURITY AND DUES CHECKOFF                  |
-| III     |         | WAGES                                             |
-| III     | 1       | Category 1-5 Employees, Hourly Employees          |
-| III     | 2       | Category 6 Employees, Salaried Employees          |
-| III     | 3       | Category 7 Employees                              |
-| III     | 4       | Step Increase Schedule For Category 6 And 7 Employees |
-| III     | 5       | Longevity Differential                             |
-| III     | 6       | Differentials                                     |
-| III     | 7       | Severance Pay                                     |
-| III     | 8       | Hourly Step System                                |
-| III     | 9       | Re-Opener                                         |
-| IV      |         | HOURS                                             |
-| IV      | 1       | Hourly Employees                                  |
-| IV      | 2       | Salaried Employees                                |
-| IV      | 3       | Compensatory Time For Salaried Employees          |
-| IV      | 4       | Work From Home                                    |
+| I       | 1       | [RECOGNITION](#article-i-recognition)                                       |
+| I       | 1       | [Job Titles Covered By The Agreement](#section-1-job-titles-covered-by-the-agreement)               |
+| I       | 2       | [Successorship Agreement](#section-2-successorship-agreement)                            |
+| II      |         | [UNION SECURITY AND DUES CHECKOFF](#article-ii-union-security-and-dues-checkoff)                  |
+| III     |         | [WAGES](#article-iii-wages)                                             |
+| III     | 1       | [Category 1-5 Employees, Hourly Employees](#section-1-category-1-5-hourly-employee-rates)          |
+| III     | 2       | [Category 6 Employees, Salaried Employees](#section-2-category-6-salaried-employees)          |
+| III     | 3       | [Category 7 Employees](#category-7-salaried-employees)                              |
+| III     | 4       | [Step Increase Schedule For Category 6 And 7 Employees](#section-4-step-increase-schedule-for-category-6-and-7-employees) |
+| III     | 5       | [Longevity Differential](#section-5-longevity-differential)                             |
+| III     | 6       | [Differentials](#section-6-differentials)                                     |
+| III     | 7       | [Severance Pay](#section-7-severance-pay)                                     |
+| III     | 8       | [Hourly Step System](#section-8-hourly-step-system)                                |
+| III     | 9       | [Re-Opener](#section-9-re-opener)                                         |
+| IV      |         | [HOURS](#article-iv-hours)                                             |
+| IV      | 1       | [Hourly Employees](#section-1-hourly-employees)                                  |
+| IV      | 2       | [Salaried Employees](#section-2-salaried-employees)                                |
+| IV      | 3       | [Compensatory Time For Salaried Employees](#section-3-compensatory-time-for-salaried-employees)          |
+| IV      | 4       | [Work From Home](#section-4-work-from-home)                                    |
 
 ## TABLE OF CONTENTS
 
