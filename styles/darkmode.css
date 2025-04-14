@@ -5,9 +5,24 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    max-width: 1200px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    overflow-x: auto;
+    display: block;
+}
+
+@media (min-width: 600px) {
+    body {
+        max-width: 1200px;
+    }
 }
 
 h2, h3, h4 {
